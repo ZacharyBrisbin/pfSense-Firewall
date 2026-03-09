@@ -1,4 +1,9 @@
 # 🔥 pfSense Firewall
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Firewall](https://img.shields.io/badge/Firewall-pfSense-orange)
+![Virtualization](https://img.shields.io/badge/Virtualization-VirtualBox-blue)
+![Network](https://img.shields.io/badge/Network-LAN-lightgrey)
+![Servers](https://img.shields.io/badge/Servers-Windows%20Server-lightgrey)
 
 ## 📖 Overview
 
